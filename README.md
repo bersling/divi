@@ -12,6 +12,9 @@
 - and the alltime favourite: test test test...
 - a cool trick for sharing between computers is gdocs
 - don't be hasty, you'll loose time in the end...
+- Download many files from server:
+  ssh <username>@<ip> 'cd /some/path/root && tar -cz some/path/continuation' | tar -xz - -C dest-dir
+  (you might want to `cd` because otherwise you'll have the whole path copied)
 
 ## What's left
 
