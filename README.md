@@ -10,6 +10,8 @@
 - Be careful when you reupload a file, since cloudfront caches your stuff. You'll need to make an invalidation
 - log success and errors... a lot can and will go wrong and you need to know what's happening
 - and the alltime favourite: test test test...
+- a cool trick for sharing between computers is gdocs
+- don't be hasty, you'll loose time in the end...
 
 ## What's left
 
